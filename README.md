@@ -1,5 +1,5 @@
 # CPP_Robot-Creation-Program
-C++ 언어로 제작된 간단한 로봇 생성 프로그램입니다.
+3학년 1학기 개인 프로젝트로 진행했던 C++ 언어로 제작된 간단한 로봇 생성 프로그램입니다.
 
 
 ![슬라이드1](https://user-images.githubusercontent.com/54846390/102904361-faf38f00-44b4-11eb-8f97-6365b7e421a1.JPG)
